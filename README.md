@@ -1,1 +1,2 @@
 # thomy
+analysis of data 
